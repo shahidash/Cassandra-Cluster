@@ -7,7 +7,7 @@ __author__ = "shahid@trialx.com"
 
 config_file = """
 # Cassandra storage config YAML
-
+#testing pull request
 # NOTE:
 #   See http://wiki.apache.org/cassandra/StorageConfiguration for
 #   full explanations of configuration directives
