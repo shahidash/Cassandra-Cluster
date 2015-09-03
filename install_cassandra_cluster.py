@@ -3,13 +3,19 @@ from fabric.contrib.files import exists
 from fabric.api import env
 import sys
 from StringIO import StringIO
-__author__ = "testtttt@trialx.com"
 
+
+
+
+
+__author__ = "   shahid@trialx.com"
 
 
 config_file = """
-# Cassandra storage config YAML
 
+
+# Cassandra storage config YAML
+    
 # NOTE:
 #   See http://wiki.apache.org/cassandra/StorageConfiguration for
 #   full explanations of configuration directives
