@@ -3,7 +3,9 @@ from fabric.contrib.files import exists
 from fabric.api import env
 import sys
 from StringIO import StringIO
-__author__ = "shahid@trialx.com"
+__author__ = "testtttt@trialx.com"
+
+
 
 config_file = """
 # Cassandra storage config YAML
